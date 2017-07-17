@@ -33,7 +33,7 @@ def convert(size, box):
 
 """ Configure Paths"""   
 mypath = "Labels/001/"
-outpath = "Labels/missile/"
+outpath = "Labels/missile_launcher/"
 
 cls = "missile_launcher"
 if cls not in classes:

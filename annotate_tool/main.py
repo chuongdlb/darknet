@@ -125,7 +125,7 @@ class LabelTool():
             self.parent.focus()
             self.category = int(s)
         else:
-            s = r'/Users/chuongdang/ws/BBox-Label-Tool/Labels'
+            s = r'/Users/chuongdang/Documents/YOLO/darknet/annotate_tool'
 ##        if not os.path.isdir(s):
 ##            tkMessageBox.showerror("Error!", message = "The specified dir doesn't exist!")
 ##            return
