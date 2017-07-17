@@ -1,0 +1,9 @@
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/1.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/10.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/100.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/101.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/102.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/103.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/104.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/105.jpg
+/Users/chuongdang/Documents/YOLO/darknet/annotate_tool/images/missile_launcher/106.jpg
