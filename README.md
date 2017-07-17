@@ -8,7 +8,7 @@ For more information see the [Darknet project website](http://pjreddie.com/darkn
 For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
 
 ## This is a fork from the original [Darknet](https://github.com/pjreddie/darknet)
-This repository is part of my VRA-Project (Object Detection), any further instructions please read the report file : [VRA-Project_CH1501021.doc]()
+This repository is part of my VRA-Project (Object Detection), any further instructions please read the report file : [VRA-Project_CH1501021.doc](https://github.com/chuongdlb/darknet/blob/master/VRAProject_Report_CH1501021.doc)
 
 ## Demo videos 
 
